@@ -2,7 +2,7 @@
 A minimal JSON form-like editor featuring fully resposive UI, using just React.
 
 ## Demo
-Visit https://andrewlowndes.github.io/json_editor/ to use the pre-built editor online. Copy your JSON into the right panel and edit on the left.
+Visit https://andrewlowndes.github.io/json_editor/dist/ to use the pre-built editor online. Copy your JSON into the right panel and edit on the left.
 
 ## Install and run from source
 Checkout the repo, ensure NodeJS is installed and run `npm i`. Debug in a local dev server with automatic re-compilation by running  `npm start`. Build a dist bundle by running `npm run build` and then open dist/index.html in your browser.
