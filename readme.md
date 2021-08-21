@@ -1,3 +1,5 @@
+> **_NOTE:_**  This project has been replaced in favour of https://github.com/andrewlowndes/material-jsoneditor
+
 # Basic JSON viewer and editor
 A minimal JSON form-like editor featuring fully resposive UI, using just React.
 
